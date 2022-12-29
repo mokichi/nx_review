@@ -18,7 +18,7 @@ Example for [Nx](https://github.com/elixir-nx/nx/tree/main/nx) that is a multi-d
 % git clone https://github.com/mokichi/nx_review.git
 % cd nx_review
 % mix do deps.get, compile
-% mix run -e 'NxReview.sample'
+% mix run -e 'NxReview.example'
 #Nx.Tensor<
   f64[2][2]
   [
